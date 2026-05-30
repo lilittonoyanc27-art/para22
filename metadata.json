@@ -1,0 +1,8 @@
+{
+  "name": "Pedro's Spanish 3D Arcade",
+  "description": "An interactive 3D gaming workstation (ARM) hosted by Don Pedro to master the Spanish Pretérito Perfecto past tense with Bowling, Billiards, Swimming, Racing, and Football games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
